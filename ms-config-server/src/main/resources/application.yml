@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri:  # ruta del repositorio git
+          uri: https://github.com/yheysonxdxd/yeison.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
